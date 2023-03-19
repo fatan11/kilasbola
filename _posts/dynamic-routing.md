@@ -1,5 +1,5 @@
 ---
-title: 'eke kaget menyaksikan Liverpool membantai Manchester 7-0 
+title: 'fathan kaget menyaksikan Laga Liverpool membantai Manchester 7-0 
 excerpt: 'KBRN, Jakarta: Pelatih Real Betis, Manuel Pellegrini mengaku kaget menyaksikan Liverpool membantai Manchester United 7-0 dalam lanjutan Liga Inggris.'
 coverImage: '/assets/blog/dynamic-routing/mu-70.jpg'
 date: '2020-03-16T05:35:07.322Z'
