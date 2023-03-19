@@ -5,9 +5,9 @@ coverImage: '/assets/blog/dynamic-routing/mu-vs-liverpool.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: haryanto
-  picture: '/assets/blog/authors/default.png'
+  picture: '/assets/blog/authors/default.jpg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/mu-vs-liverpool'
+  url: '/assets/blog/dynamic-routing/mu-vs-liverpool.jpg'
 ---
 
 KBRN, Jakarta: Pelatih Real Betis, Manuel Pellegrini mengaku kaget menyaksikan Liverpool membantai Manchester United 7-0 dalam lanjutan Liga Inggris di Anfield akhir pekan lalu. Pellegrini sempat menyaksikan laga tersebut selama babak pertama.
