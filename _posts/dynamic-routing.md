@@ -4,8 +4,8 @@ excerpt: 'KBRN, Jakarta: Pelatih Real Betis, Manuel Pellegrini mengaku kaget men
 coverImage: '/assets/blog/dynamic-routing/mu-vs-liverpool.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: haryanto
-  picture: '/assets/blog/authors/default.jpg'
+  name:haryanto
+    picture: '/assets/blog/authors/default.jpg'
 ogImage:
   url: '/assets/blog/dynamic-routing/mu-vs-liverpool.jpg'
 ---
